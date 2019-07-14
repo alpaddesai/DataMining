@@ -16,3 +16,6 @@ Copyright protection is in process.
 
 ## Transforming Data
 ![image](TransformingData.png)
+
+## RStudio Project
+![image](RStudioProject.png)
