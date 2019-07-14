@@ -6,16 +6,16 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 Copyright protection is in process.
 
 ## Data Mining
-![image](DataMining.png)
+![image](DataMiningandMachineLearning.png)
 
 ## Linear Regression
-![image](MultipleLinearRegressionAnalysis.png)
+![image](MultipleLinearRegressionExample.png)
 
 ## Decision Tree
-![image](DecisionTree.png)
+![image](ExcelDecisionTree.png)
 
 ## Transforming Data
-![image](TransformingData.png)
+![image](DataTransforming.png)
 
 ## RStudio Project
-![image](RStudioProject.png)
+![image](RStudioDecisionTree.png)
