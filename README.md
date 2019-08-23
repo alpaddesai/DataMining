@@ -20,3 +20,6 @@ Copyright protection is in process.
 
 ## RStudio Project
 ![image](RStudioDecisionTree.png)
+
+## Predictors for Gold
+![image](PredictorsGold.png)
