@@ -69,8 +69,9 @@
         </RichTextBox>
         <Button x:Name="RStudio" Content="RStudio Project" HorizontalAlignment="Left" Margin="701,27,0,0" VerticalAlignment="Top" Width="139" Height="35" Click="RStudio_Click"/>
         <Button Content="Decision Tree in Excel" HorizontalAlignment="Left" Margin="700,88,0,0" VerticalAlignment="Top" Width="140" Height="37" Click="Button_Click_1"/>
-        <Button x:Name="GoldPrice" Content="Transforming Data" HorizontalAlignment="Left" Margin="702,150,0,0" VerticalAlignment="Top" Width="136" Height="38" Click="GoldPrice_Click"/>
-        <Button x:Name="Linear_Regression" Content="Linear Regression" HorizontalAlignment="Left" Margin="702,218,0,0" VerticalAlignment="Top" Width="133" Height="33" Click="Linear_Regression_Click"/>
+        <Button x:Name="GoldPrice" Content="Transforming Data" HorizontalAlignment="Left" Margin="702,150,0,0" VerticalAlignment="Top" Width="138" Height="38" Click="GoldPrice_Click"/>
+        <Button x:Name="Linear_Regression" Content="Linear Regression" HorizontalAlignment="Left" Margin="702,218,0,0" VerticalAlignment="Top" Width="140" Height="33" Click="Linear_Regression_Click"/>
+        <Button x:Name="MultipleRegression" Content="Multiple Regression" HorizontalAlignment="Left" Margin="704,285,0,0" VerticalAlignment="Top" Width="140" Height="32" Click="MultipleRegression_Click"/>
 
     </Grid>
 </Window>

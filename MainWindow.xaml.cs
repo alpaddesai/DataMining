@@ -53,5 +53,11 @@ namespace DatabasesandDataMining
             LinearRegression LinearRegressionObject = new LinearRegression();
             LinearRegressionObject.Show();
         }
+
+        private void MultipleRegression_Click(object sender, RoutedEventArgs e)
+        {
+            MultipleRegression MultipleRegressionObject = new MultipleRegression();
+            MultipleRegressionObject.Show();
+        }
     }
 }

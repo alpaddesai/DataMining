@@ -61,6 +61,9 @@
     <Compile Include="LinearRegression.xaml.cs">
       <DependentUpon>LinearRegression.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MultipleRegression.xaml.cs">
+      <DependentUpon>MultipleRegression.xaml</DependentUpon>
+    </Compile>
     <Compile Include="RStudioProject.xaml.cs">
       <DependentUpon>RStudioProject.xaml</DependentUpon>
     </Compile>
@@ -87,6 +90,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="MultipleRegression.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="RStudioProject.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -139,6 +146,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="predictors for gold.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
