@@ -6,7 +6,8 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 Copyright protection is in process.
 
 ## Data Mining
-![image](DataMiningandMachineLearning.png)
+![image](MachineLearningAlgorithm.png)
+
 
 ## Linear Regression
 ![image](MultipleLinearRegressionExample.png)
