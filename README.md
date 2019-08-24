@@ -23,3 +23,6 @@ Copyright protection is in process.
 
 ## Predictors for Gold
 ![image](PredictorsGold.png)
+
+## Regression S&P Index
+![image](RegressionS&PIndex.png)
