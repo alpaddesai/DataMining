@@ -20,6 +20,7 @@ C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Rele
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\DatabasesandDataMining.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\DatabasesandDataMining.exe
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\DatabasesandDataMining.pdb
-C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\DatabasesandDataMining.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\MultipleRegression.g.cs
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\MultipleRegression.baml
+C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\StockMarket.g.cs
+C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Release\StockMarket.baml

@@ -6,6 +6,7 @@ C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debu
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\MainWindow.g.cs
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\MultipleRegression.g.cs
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\RStudioProject.g.cs
+C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\StockMarket.g.cs
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\TransformingData.g.cs
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\App.g.cs
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining_MarkupCompile.cache
@@ -15,6 +16,7 @@ C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debu
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\MainWindow.baml
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\MultipleRegression.baml
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\RStudioProject.baml
+C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\StockMarket.baml
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\TransformingData.baml
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining.g.resources
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining.Properties.Resources.resources
@@ -22,4 +24,3 @@ C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debu
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining.exe
 C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining.pdb
-C:\Users\ADG\source\repos\DatabasesandDataMining\DatabasesandDataMining\obj\Debug\DatabasesandDataMining.csprojAssemblyReference.cache

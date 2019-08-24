@@ -67,6 +67,9 @@
     <Compile Include="RStudioProject.xaml.cs">
       <DependentUpon>RStudioProject.xaml</DependentUpon>
     </Compile>
+    <Compile Include="StockMarket.xaml.cs">
+      <DependentUpon>StockMarket.xaml</DependentUpon>
+    </Compile>
     <Compile Include="TransformingData.xaml.cs">
       <DependentUpon>TransformingData.xaml</DependentUpon>
     </Compile>
@@ -95,6 +98,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="RStudioProject.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StockMarket.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -152,6 +159,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="predictors for gold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image8.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

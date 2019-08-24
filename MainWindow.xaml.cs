@@ -59,5 +59,11 @@ namespace DatabasesandDataMining
             MultipleRegression MultipleRegressionObject = new MultipleRegression();
             MultipleRegressionObject.Show();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            StockMarket StockMarketObject = new StockMarket();
+            StockMarketObject.Show();
+        }
     }
 }
