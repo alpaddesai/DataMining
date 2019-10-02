@@ -18,8 +18,6 @@ Copyright protection is in process.
 ## Transforming Data
 ![image](DataTransforming.png)
 
-## RStudio Project
-![image](RStudioDecisionTree.png)
 
 ## Predictors for Gold
 ![image](PredictorsGold.png)
