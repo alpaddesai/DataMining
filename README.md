@@ -24,3 +24,6 @@ Copyright protection is in process.
 
 ## Regression S&P Index
 ![image](RegressionS&PIndex.png)
+
+## Minitab essentals
+![image](MinitabEssentials.jpg)
