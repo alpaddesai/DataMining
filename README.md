@@ -27,3 +27,6 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 
 ## Minitab essentals
 ![image](MinitabEssentials.jpg)
+
+## Calculus essentials
+![image](Calculus.jpg)
