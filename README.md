@@ -1,4 +1,4 @@
-# Databases and Data Mining
+# Data Mining
 
 The project provides an example of data mining projects. Confidential information is not displayed. 
 Please download the executable in https://github.com/alpaddesai/DatabasesandDataMining/releases  for details.
