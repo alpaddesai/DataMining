@@ -30,3 +30,9 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 
 ## Calculus essentials
 ![image](Calculus.jpg)
+
+## Tableau
+![image](Tableau.png)
+
+## NS Access
+![image](MSAccess.png)
