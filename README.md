@@ -6,7 +6,7 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 
 
 ## Data Mining
-![image](MachineLearningAlgorithm.png)
+!![image](MachineLearningAlgorithm.png)
 
 
 ## Linear Regression
