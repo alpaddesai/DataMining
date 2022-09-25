@@ -37,4 +37,6 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 ## MS Access
 ![image](MSAccess.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge includes https://github.com/alpaddesai/BigDataDataScience , https://github.com/alpaddesai/SemiconductorIndustryAnalysis . https://github.com/alpaddesai/InvestmentPortfolio   and https://github.com/alpaddesai/ProbabilityStochasticProcesses. 
