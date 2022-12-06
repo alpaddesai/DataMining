@@ -18,7 +18,6 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 ## Transforming Data
 ![image](DataTransforming.png)
 
-
 ## Predictors for Gold
 ![image](PredictorsGold.png)
 
@@ -36,9 +35,6 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 
 ## MS Access
 ![image](MSAccess.png)
-
-## exam
-![image](CFAExam.jpg)
 
 ![image](USCopyrightCertificate.png)
 
