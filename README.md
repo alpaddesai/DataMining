@@ -4,10 +4,8 @@ The project provides an example of data mining projects. Confidential informatio
 Please download the executable in https://github.com/alpaddesai/DatabasesandDataMining/releases  for details.
 All images are either custom by Alpa D Desai or a reference name is included.Most of the images are custom. 
 
-
 ## Data Mining
 ![image](MachineLearningAlgorithm.png)
-
 
 ## Linear Regression
 ![image](MultipleLinearRegressionExample.png)
@@ -32,6 +30,9 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 
 ## Tableau
 ![image](Tableau.png)
+
+## CFA
+![image](CFAExam.jpg)
 
 ## MS Access
 ![image](MSAccess.png)
