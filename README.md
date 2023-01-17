@@ -41,4 +41,4 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 
 ![image](Ethics.jpg)
 
-Advanced knowledge includes https://github.com/alpaddesai/BigDataDataScience and https://github.com/alpaddesai/SemiconductorIndustryAnalysis
+Advanced knowledge includes https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
