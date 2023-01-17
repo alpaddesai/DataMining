@@ -34,9 +34,6 @@ All images are either custom by Alpa D Desai or a reference name is included.Mos
 ## MS Access
 ![image](MSAccess.png)
 
-## CFA
-![image](CFAExam.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
